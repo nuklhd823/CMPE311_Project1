@@ -2,6 +2,7 @@
 
 ## Summary
   This repo houses my CMPE 311 Project 1 and a supporting video to verify the testing requirements were met.
+  Releases 1.0.0 and 1.0.1 are the same except the video formats are in .mov or .mp4
   
 ### Compile Steps
 1. Download and open the folder containing CMPE311_Project_1.ino

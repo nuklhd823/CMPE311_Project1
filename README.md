@@ -5,7 +5,7 @@
   Releases 1.0.0 and 1.0.1 are the same except the video formats are in .mov or .mp4
   
 ### Compile Steps
-1. Download and open the folder containing CMPE311_Project_1.ino
+1. Download release 1.0.0 or 1.0.1 and open the folder containing CMPE311_Project_1.ino
 2. Open CMPE311_Project_1.ino in Arduinio IDE
 3. Compile and flash CMPE311_Project_1.ino to the ELEGOO Uno R3 board
 
